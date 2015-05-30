@@ -7,7 +7,18 @@
     "longName": "PiWatch",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "file": "images/CodeCogsEqn.png",
+                "name": "IMAGE_PI",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "2",
     "shortName": "PiWatch",
